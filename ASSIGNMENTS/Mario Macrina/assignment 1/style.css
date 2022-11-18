@@ -1,0 +1,85 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto';
+    font-size: 22px;
+}
+
+img {
+    height: 200px;
+    border-radius: 100px;
+}
+
+.font-h3 {
+    color: #20c997;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.font-p {
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.list {
+    color: azure;
+    margin-left: 75px;
+    margin-top: -25px;
+}
+
+.leftSide {
+    background-color: #063664;
+    height: 100%;
+    width: 30%;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    margin: 50px;
+    float: left;
+}
+
+.resImg {
+    padding: 40px;
+}
+
+.contact-details {
+    color: azure;
+    margin-left: 60px;
+    margin-top: -25px;
+}
+
+.right-side {
+    /* background-color: #9aa8b4; */
+    height: 100%;
+    width: 50%;
+    padding: 50px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    margin: 50px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.ninja {
+    padding-left: 170px;
+}
+
+.name {
+    color: #0d95e4;
+}
+
+.carrier {
+    margin-top: -10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.edu-list {
+    margin-left: 100px;
+}
